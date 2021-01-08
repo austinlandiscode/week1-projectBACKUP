@@ -1,5 +1,6 @@
 img {
   float: right;
+  margin-right: 5px;
 }
 li {
   font-size: 20px;
@@ -9,6 +10,7 @@ h2 {
 }
 .card {
   background-color: rgb(232, 242, 248);
+  padding: 5px;
 }
 .list ol li {
   font-size: 15px;
