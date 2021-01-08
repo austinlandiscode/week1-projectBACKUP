@@ -17,6 +17,13 @@ This HTML webpage uses Bootstrap CSS stylesheet's along with a custom style shee
 
 ## Setup/Installation Requirements
 
+* Click on branches
+* Choose the gh-pages branch
+* Under environments: choose github-pages
+* Then click view deployment
+
+OR
+
 * Click on the green download code button.
 * Download ZIP.
 * Move the ZIPPED folder to your desktop.
