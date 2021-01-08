@@ -10,3 +10,6 @@ h2 {
 .card {
   background-color: rgb(232, 242, 248);
 }
+.list ol li {
+  font-size: 15px;
+}
