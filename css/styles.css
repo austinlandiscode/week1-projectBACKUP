@@ -3,11 +3,12 @@
 img {
   margin-left: 5px;
 }
-h1{
-  float: right;
 }
 h2 {
   text-align: center;
+}
+h4 {
+  float: right;
 }
 li {
   font-size: 20px;
